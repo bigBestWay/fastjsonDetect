@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Agent-Class: FastjsonDetectAgent
+Premain-Class: FastjsonDetectAgent
+Can-Redine-Classes: true
+Can-Retransform-Classes: true
+
